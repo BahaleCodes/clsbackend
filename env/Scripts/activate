@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Teddy Bear\Documents\Programming world\Django\Classifier\backend\env"
+VIRTUAL_ENV="C:\Users\Teddy Bear\Documents\GitHub\clsbackend\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
